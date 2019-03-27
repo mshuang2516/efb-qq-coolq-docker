@@ -17,3 +17,7 @@ admins:
 
 打开 `ip:9801` 登陆novnc后完成coolq登陆操作
 
+`docker logs -f qqbot` 
+Scan the QRCode to login
+
+打开手机微信扫码，扫描屏幕上的二维码，然后确认登录。
